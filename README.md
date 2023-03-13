@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I'm Alexander and I'm a programmer from Novosibirsk**\
+\
+Skills: OOP, Python, C/C++, Qt, C#
+- 🌱 I’m currently studying Data Science
+- ⚡ Fun fact: C++ was my first language, but after I learned about the possibilities of C#, I switched to it. I miss those days...\
+\
+There are some stats\
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busyhedg03)](https://github.com/anuraghazra/github-readme-stats)
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busyhedg03)](https://github.com/anuraghazra/github-readme-stats)
