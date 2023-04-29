@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 **I'm Alexander and I'm a programmer from Novosibirsk**\
 \
-Skills: OOP, Python, C/C++, Qt, C#
+Skills: LaTeX, OOP, Python, C/C++, Qt, C#
 - 🌱 I’m currently studying Data Science
 - ⚡ Fun fact: C++ was my first language, but after I learned about the possibilities of C#, I switched to it. I miss those days...\
 \
