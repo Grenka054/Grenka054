@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**busyhedg03/busyhedg03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Grenka054/Grenka054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,6 +21,6 @@ Skills: LaTeX, OOP, Python, C/C++, Qt, C#, ML, DL
 - ⚡ Fun fact: C++ was my first language, but after I learned about the possibilities of C#, I switched to it. I miss those days...\
 \
 There are some stats\
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busyhedg03)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grenka054)](https://github.com/anuraghazra/github-readme-stats)
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busyhedg03)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grenka054)](https://github.com/anuraghazra/github-readme-stats)
